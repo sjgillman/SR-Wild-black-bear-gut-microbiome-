@@ -11,7 +11,7 @@ blackbear-gme-SR/
   **data/** | **Description**
   *BearMeta-R.tsv* | data used in R analysis
   *BearMeta.tsv* | data used in QIIME2-- just slightly different format from above
-  *BlackBeardemuxsequences.qza* | demultiplexed EMP-paired end sequences demultiplexed on QIIME2
+  *BlackBeardemuxsequences.tar.gz* | demultiplexed EMP-paired end sequences demultiplexed on QIIME2
   *physeq.rds* | phyloseq-R object that can be used if wanting to skip rarifying step
   **scripts/** | **Description**
   *QIIME2 Pipeline.md* | bioinformatic pipeline to prepare sequences for analysis in R
