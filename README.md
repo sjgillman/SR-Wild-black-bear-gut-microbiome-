@@ -7,15 +7,15 @@ Directory structure | Description
 --- | ---
 blackbear-gme-SR/
   |- README.md
-  **- data/** | **Description**
+  |- **data/** | **Description**
   *BearMeta-R.tsv* | data used in R analysis
   *BearMeta.tsv* | data used in QIIME2-- just slightly different format from above
   *BlackBeardemuxsequences.qza* | demultiplexed EMP-paired end sequences demultiplexed on QIIME2
   *physeq.rds* | phyloseq-R object that can be used if wanting to skip rarifying step
-  **- script/** | **Description**
+  |- **script/** | **Description**
   *QIIME2 Pipeline.md* | bioinformatic pipeline to prepare sequences for analysis in R
   *Statistical Analysis.R* | code required to repeat statistics from manuscript
-  **- images/**
+  |- **images/**
   *blackbear.png*
 </center>
 <p align="center">
