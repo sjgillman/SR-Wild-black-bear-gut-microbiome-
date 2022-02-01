@@ -19,7 +19,8 @@ blackbear-gme-SR/
    images/
     |-blackbear.png
 
-
-<img src="images/blackbear.png" width="100" />
+<p align="center">
+<img src="images/blackbear.png" width="300" />
+  </p>
 
 
