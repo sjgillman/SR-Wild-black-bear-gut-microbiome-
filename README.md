@@ -2,7 +2,7 @@
 #### Published Manuscript in Scientific Reports; [DOI: 10.1038](https://doi.org/10.1038/s41598-020-77282-w)
 Authors: Sierra J. Gillman, Erin A. McKenney, Diana J.R. Lafferty
 
-<center>
+
 Directory structure | Description
 --- | ---
 blackbear-gme-SR/
@@ -17,7 +17,7 @@ blackbear-gme-SR/
   *Statistical Analysis.R* | code required to repeat statistics from manuscript
   **images/**
   *blackbear.png*
-</center>
+
 <p align="center">
 <img src="images/blackbear.png" width="500" />
   </p>
