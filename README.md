@@ -3,6 +3,7 @@
 Authors: Sierra J. Gillman, Erin A. McKenney, Diana J.R. Lafferty
 
 Directory structure:
+
 blackbear-gme-SR/
   |-README.md
   |-Data/
