@@ -8,7 +8,7 @@ The gut microbiome (GMB), comprising the commensal microbial communities located
 
 Directory structure | Description
 --- | ---
-blackbear-gme-SR/
+blackbear-gmb-SR/
   README.md
   **data/** | **Description**
   *BearMeta-R.tsv* | data used in R analysis
