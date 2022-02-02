@@ -20,7 +20,6 @@ blackbear-gme-SR/
   *Statistical Analysis.R* | code required to repeat statistics from manuscript
   **images/**
   *blackbear.png*
-  *protocol.pdf* | insctructions on how hunters collected samples
 
 <p align="center">
 <img src="images/blackbear.png" width="500" />
